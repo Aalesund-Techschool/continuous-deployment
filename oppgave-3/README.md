@@ -33,6 +33,9 @@ on: [push]
 jobs:
   build:
     runs-on: ubuntu-latest
++    permissions:
++      id-token: write
++      pages: write
     defaults:
       run:
         working-directory: ./code
