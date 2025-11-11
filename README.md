@@ -13,7 +13,7 @@ I denne workshop'en skal vi jobbe med å etablere en deploy pipeline for en web-
 - [Oppgave 3](./oppgave-3/README.md)
 - [Oppgave 4 (bonus)](./oppgave-4/README.md)
 
-## Resursser
+## Ressurser
 
 - [Learn GitHub Actions](https://docs.github.com/en/actions/learn-github-actions)
 - [Starter workflows for different types of projects](https://github.com/actions/starter-workflows/tree/main/ci)
