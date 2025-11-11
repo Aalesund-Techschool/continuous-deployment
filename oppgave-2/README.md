@@ -200,6 +200,10 @@ jobs:
 
     runs-on: ubuntu-latest
 
+    defaults:
+      run:
+        working-directory: ./code
+
     steps:
       - uses: actions/checkout@v4
       - name: Use Node.js 22.x
