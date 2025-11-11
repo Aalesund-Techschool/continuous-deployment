@@ -155,6 +155,6 @@ Under "Tag"-dropdown, velg deg et tag-navn (Forslag: Bruk en versjonstag, f.eks.
 
 
 Trykk på "Publish release" nederst i skjermbildet. Sjekk at Action din kjører og at ny deploy går ut.
-![](publish_release)
+![](publish_release.png)
 
 
