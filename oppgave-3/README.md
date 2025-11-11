@@ -105,6 +105,8 @@ jobs:
 
 Denne filen tar nå å sjekker ut koden for å så kjøre kvalitetssjekker. 
 
+Vi har oppdatert reglene for triggers, ved å si at den skal trigge på alle branches, men ikke trigge på tagging av commits.
+
 ### 3.3.2 - Trigger deploy fra Github Releases
 
 :pencil2: Opprett en ny actions fil som heter `deploy.yaml`. Legg følgende innhold inn:
