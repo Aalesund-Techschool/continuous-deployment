@@ -43,4 +43,4 @@ Emphasizes how lines of text should change.
 + and replaced with this text
 ```
 
-### [Gå til oppgave 1 :arrow_right:](../oppgave-2/README.md)
+### [Gå til oppgave 1 :arrow_right:](./oppgave-1/README.md)
